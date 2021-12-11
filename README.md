@@ -6,3 +6,8 @@ This program helps to scan ping with UDP instead of ICMP. As we all know, ICMP d
 import socket
 from socket import *
 ```
+
+
+```
+python udp.py
+```
